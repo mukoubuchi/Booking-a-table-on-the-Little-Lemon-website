@@ -4,7 +4,7 @@
 2. `npm install`
 3. `npm start`
 	- `^C` (for stopping the npm)
-4. `npm test'
+4. `npm test`
 	- `↩` (alt. any other options)
 
 # Author
